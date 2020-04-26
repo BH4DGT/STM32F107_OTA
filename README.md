@@ -1,4 +1,4 @@
-# STM32F107_OTA
+# OTA for STM32F107RCT6
 
 
 
